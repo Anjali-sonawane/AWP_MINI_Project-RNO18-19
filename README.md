@@ -1,2 +1,2 @@
-# AWP_MINI_Project-RNO18-19
-AWP Mini Project by anjali sonawane and ankita gorkhede
+# RNO18-19-Brilliant-brushes
+AWP Mini Project RNO18 Anjali sonawane, 19-Ankita Gorkhede
